@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df6c9ecc-0334-4965-8980-937c1019a980" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WF2WjKbcUOvUbKmokVtZEzDmsU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../Android/Sdk" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeapYear" />
+      <module name="LeapYear" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeapYear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df6c9ecc-0334-4965-8980-937c1019a980" name="Default Changelist" comment="" />
+      <created>1578731055127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578731055127</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="302" y="59" width="800" height="684" key="#Project_Structure" timestamp="1578731064440">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state x="302" y="59" width="800" height="684" key="#Project_Structure/48.27.1318.741@48.27.1318.741" timestamp="1578731064440" />
+    <state width="1318" height="156" key="GridCell.Tab.0.bottom" timestamp="1579586391163">
+      <screen x="0" y="27" width="1366" height="695" />
+    </state>
+    <state width="1318" height="156" key="GridCell.Tab.0.bottom/0.27.1366.695@0.27.1366.695" timestamp="1579586391163" />
+    <state width="1270" height="172" key="GridCell.Tab.0.bottom/48.27.1318.741@48.27.1318.741" timestamp="1578894139772" />
+    <state width="1318" height="156" key="GridCell.Tab.0.center" timestamp="1579586391162">
+      <screen x="0" y="27" width="1366" height="695" />
+    </state>
+    <state width="1318" height="156" key="GridCell.Tab.0.center/0.27.1366.695@0.27.1366.695" timestamp="1579586391162" />
+    <state width="1270" height="172" key="GridCell.Tab.0.center/48.27.1318.741@48.27.1318.741" timestamp="1578894139771" />
+    <state width="1318" height="156" key="GridCell.Tab.0.left" timestamp="1579586391161">
+      <screen x="0" y="27" width="1366" height="695" />
+    </state>
+    <state width="1318" height="156" key="GridCell.Tab.0.left/0.27.1366.695@0.27.1366.695" timestamp="1579586391161" />
+    <state width="1270" height="172" key="GridCell.Tab.0.left/48.27.1318.741@48.27.1318.741" timestamp="1578894139771" />
+    <state width="1318" height="156" key="GridCell.Tab.0.right" timestamp="1579586391162">
+      <screen x="0" y="27" width="1366" height="695" />
+    </state>
+    <state width="1318" height="156" key="GridCell.Tab.0.right/0.27.1366.695@0.27.1366.695" timestamp="1579586391162" />
+    <state width="1270" height="172" key="GridCell.Tab.0.right/48.27.1318.741@48.27.1318.741" timestamp="1578894139772" />
+    <state width="1270" height="215" key="GridCell.Tab.1.bottom" timestamp="1578802678822">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state width="1270" height="215" key="GridCell.Tab.1.bottom/48.27.1318.741@48.27.1318.741" timestamp="1578802678822" />
+    <state width="1270" height="215" key="GridCell.Tab.1.center" timestamp="1578802678821">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state width="1270" height="215" key="GridCell.Tab.1.center/48.27.1318.741@48.27.1318.741" timestamp="1578802678821" />
+    <state width="1270" height="215" key="GridCell.Tab.1.left" timestamp="1578802678821">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state width="1270" height="215" key="GridCell.Tab.1.left/48.27.1318.741@48.27.1318.741" timestamp="1578802678821" />
+    <state width="1270" height="215" key="GridCell.Tab.1.right" timestamp="1578802678822">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state width="1270" height="215" key="GridCell.Tab.1.right/48.27.1318.741@48.27.1318.741" timestamp="1578802678822" />
+    <state x="341" y="213" key="com.intellij.ide.util.TipDialog" timestamp="1579568170347">
+      <screen x="0" y="27" width="1366" height="695" />
+    </state>
+    <state x="341" y="213" key="com.intellij.ide.util.TipDialog/0.27.1366.695@0.27.1366.695" timestamp="1579568170347" />
+    <state x="377" y="225" key="com.intellij.ide.util.TipDialog/48.27.1318.741@48.27.1318.741" timestamp="1578883761647" />
+    <state x="393" y="292" width="618" height="217" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578803988596">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state x="393" y="292" width="618" height="217" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/48.27.1318.741@48.27.1318.741" timestamp="1578803988596" />
+    <state x="371" y="174" key="run.anything.popup" timestamp="1578832532310">
+      <screen x="48" y="27" width="1318" height="741" />
+    </state>
+    <state x="371" y="174" key="run.anything.popup/48.27.1318.741@48.27.1318.741" timestamp="1578832532310" />
+  </component>
+</project>
